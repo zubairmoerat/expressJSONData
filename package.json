@@ -2,10 +2,10 @@
   "name": "expressjsondata",
   "version": "1.0.0",
   "description": "Learning to fetch data from a JSON file.",
-  "main": "main.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node main",
+    "start": "node index",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
